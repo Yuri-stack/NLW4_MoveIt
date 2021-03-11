@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-        <img src="github/assets/home.png" alt="Home" width="480">
+        <img src="https://github.com/Yuri-stack/NLW4_MoveIt/blob/main/github/assets/home.png" alt="Home" width="480">
     <br><br>
         MoveIt 
 </h1>
@@ -57,7 +57,7 @@
     <li>Eu recomendo usar VSCode como um IDE de desenvolvimento</li>
 </ul>
 
-```bash
+``bash
 ## Clone o repositório
 $ git clone https://github.com/Yuri-stack/NLW4_MoveIt
 
@@ -73,7 +73,7 @@ $ npm install
 $ yarn start
 ou
 $ npm run start
-```
+``
 ## Traduções
 <ul>
     <li><a href="https://github.com/Yuri-stack/NLW4_MoveIt/blob/main/ReadMe.md">Original</a></li>
