@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-        <img src="./github/assets/home.png" alt="Home" width="480">
+        <img src="/github/assets/home.png" alt="Home" width="480">
     <br><br>
         MoveIt 
 </h1>
