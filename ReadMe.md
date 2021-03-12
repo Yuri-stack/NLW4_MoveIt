@@ -56,7 +56,7 @@
     <li> I recommend using VSCode as a development IDE </li>
 </ul>
 
-`` bash
+``` bash
 ## Clone the repository
 $ git clone https://github.com/Yuri-stack/NLW4_MoveIt
 
@@ -72,7 +72,7 @@ $ npm install
 $ yarn start
 or
 $ npm run start
-``
+```
 ## Translations
 <ul>
     <li><a href="https://github.com/Yuri-stack/NLW4_MoveIt/blob/main/ReadMe.md">Original</a></li>
